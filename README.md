@@ -1,5 +1,11 @@
 # VisibleVoice.ai
 
+### by [Girendra Singh](https://github.com/Giru-03)
+### with [Arshlaan](https://github.com/sa778888), [Sahil Murhekar](https://github.com/sahilmurhekar),  and Aryan Chopra
+### from TamilNadu, India
+
+## About the Project
+
 VisibleVoice.ai is a web application designed to facilitate communication for individuals who use sign language. The project leverages frontend technologies (HTML, CSS, JS) for the user interface and interaction, while the backend is powered by Django framework for processing and interpreting the sign language gestures.
 
 ## Overview
@@ -81,8 +87,6 @@ To run the project locally, follow these steps:
 #### Sign Language Detection
 ![Sign Language Detection](./Screenshot%202025-01-17%20155020.png)
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
